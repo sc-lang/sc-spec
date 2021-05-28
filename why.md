@@ -3,7 +3,7 @@
 A reasonable question to ask might be: why SC and not JSON, YAML, etc?
 
 There are various other file formats available, however they all have issues that make them not
-ideal for writing configuration files.
+ideal for writing configuration files. // file formats? languages?
 
 ### JSON
 
@@ -77,7 +77,7 @@ All the languages described above have at least one of two main issues:
 ## A Configuration Language for Configuration Files
 
 SC was designed first and foremost for writing configuration files. It is not a general purpose
-data serialization language. You should not be building a REST API that uses SC. SC contains futures
+data serialization language. You should not be building a REST API that uses SC. SC contains features
 to make handling configuration easier, such as variables to make it easy to have dynamic configuration values.
 
 ### Simplicity is Key
