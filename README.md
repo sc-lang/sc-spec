@@ -1,19 +1,17 @@
 # SC
 
-This repository contains the [official specification](spec.md) for the Simple Config (SC) language.
-
-The Simple Config (SC) Language is a configuration language designed for writing configuration files.
+This repository contains the [official specification](spec.md) for Simple Config (SC). SC is a configuration language designed for writing configuration files.
 
 ## Goals
 
-SC is designed and intended for writing configuration files. SC favours simplicity and readability first and foremost.
+SC is designed and intended for writing configuration files. SC favours simplicity and readability first and foremost. //first sentence is repeated, and the sentence itself isnt great
 
 SC should be easy to read and write since it is intended to be written by humans. It should also
 be simple to parse, making it easy to write parsers in any programming language.
 
 ## Overview
 
-SC supports the following value types: null, booleans, numbers, variables, strings, lists, and dictionaries.
+SC supports the following value types: null, booleans, numbers, variables, strings, lists, and dictionaries. // is variable a type?
 
 Some key highlights:
 
