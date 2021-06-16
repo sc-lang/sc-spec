@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [Notation](#notation)
 - [File Extension](#file-extension)
-- [Souce Text](#source-text)
+- [Source Text](#source-text)
 - [Comments](#comments)
 - [Whitespace](#whitespace)
 - [Commas](#commas)
@@ -50,7 +50,7 @@ The following operators are used in order of precedence:
 - `+` matches one or more times
 - `?` matches zero or one times (optional)
 - `()` grouping
-- `|` alteration (or)
+- `|` alternation (or)
 - `/* */` comment
 
 An ellipsis (...) indicates a range of values not explicitly specified for brevity.

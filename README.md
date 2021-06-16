@@ -1,8 +1,6 @@
 # SC
 
-This repository contains the [official specification](spec.md) for the Simple Config (SC) language.
-
-The Simple Config (SC) Language is a configuration language designed for writing configuration files.
+This repository contains the [official specification](spec.md) for the Simple Config (SC) Language.
 
 ## Goals
 
